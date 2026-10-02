@@ -1,4 +1,7 @@
-# 💜 Hi, I'm A'marie!
+<p align="center">
+  <img src="The Local Urbanist Etsy Banner.png" alt="A'marie Dukes Cybersecurity Banner" width="100%">
+</p>
+
 
 ### 🔐 Cybersecurity Student | GRC | Risk Management | IT
 
