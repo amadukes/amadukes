@@ -1,16 +1,70 @@
-## Hi there 👋
+# 💜 Hi, I'm A'marie!
 
-<!--
-**amadukes/amadukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔐 Cybersecurity Student | GRC | Risk Management | IT
 
-Here are some ideas to get you started:
+I'm a cybersecurity student building hands-on experience in cybersecurity
+Governance, Risk & Compliance (GRC), Linux, and information technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 About Me
+
+- 🎓 Studying Cybersecurity
+- 🛡️ Interested in Governance, Risk & Compliance (GRC)
+- 🐧 Building hands-on Linux and cybersecurity projects
+- 📋 Learning NIST CSF and security risk management
+- 🔎 Interested in Digital Forensics
+- 💻 Currently looking for cybersecurity and IT internship opportunities
+
+---
+
+## 🛠️ Skills & Tools
+
+### Cybersecurity
+`Linux` `Nmap` `NIST CSF 2.0` `Risk Assessment` `GRC` `Security Auditing`
+
+### Programming
+`Python` `C++` `HTML` `CSS`
+
+### Tools
+`Git` `GitHub` `Figma` `Adobe Photoshop` `Adobe Illustrator`
+
+---
+
+## 💼 Featured Cybersecurity Projects
+
+### 🛡️ GRC Compliance Audit Lab
+
+A simulated GRC assessment for a healthcare organization using
+NIST Cybersecurity Framework 2.0.
+
+**Includes:**
+- Risk Register
+- Asset Inventory
+- NIST CSF Gap Analysis
+- Security Policies
+- Risk Scoring
+- Executive Security Report
+
+### 🐧 Cybersecurity Risk Assessment Lab
+
+A hands-on cybersecurity lab demonstrating Linux security,
+network reconnaissance, security auditing, and risk documentation.
+
+**Tools & Skills:**
+- Linux
+- Nmap
+- Bash
+- Security Auditing
+- Risk Assessment
+- Git/GitHub
+
+---
+
+## 🌱 Currently Learning
+
+`Cybersecurity` • `GRC` • `Digital Forensics` • `Python` • `Network Security`
+
+---
+
+### ✨ Building my cybersecurity career one project at a time.
