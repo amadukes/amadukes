@@ -43,15 +43,6 @@ Governance, Risk & Compliance (GRC), Linux, and information technology.
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-9D4EDD?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF69B4?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-### Cybersecurity
-`Linux` `Nmap` `NIST CSF 2.0` `Risk Assessment` `GRC` `Security Auditing`
-
-### Programming
-`Python` `C++` `HTML` `CSS`
-
-### Tools
-`Git` `GitHub` `Figma` `Adobe Photoshop` `Adobe Illustrator`
-
 ---
 
 ## 💼 Featured Cybersecurity Projects
